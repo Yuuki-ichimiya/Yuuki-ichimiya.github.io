@@ -1,4 +1,4 @@
-# 量子情報メモ
+# 勉強メモ
 
 このウェブサイトは[@info_rubegu](https://twitter.com/info_rubegu)が運営するGihHub pagesです。
 まだ公開できるサイトではありませんが、徐々に要素を追加していきます。
