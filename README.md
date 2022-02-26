@@ -1,4 +1,7 @@
-## Welcome to GitHub Pages
+## 量子情報メモ
+
+このウェブサイトは[@info_rubegu](https://twitter.com/info_rubegu)が運営するGihHub pagesです。
+まだ公開できるサイトではありませんが、徐々に要素を追加していきます。
 
 You can use the [editor on GitHub](https://github.com/Yuuki-ichimiya/Yuuki-ichimiya.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
