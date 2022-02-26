@@ -15,10 +15,10 @@
     - [大学演習 熱学・統計力学](https://yuuki-ichimiya.github.io/Physics/Thermal_Statistical_Mechanics/978_4785380328)
     - [テンソルネットワークの基礎と応用](https://yuuki-ichimiya.github.io/Physics/Thermal_Statistical_Mechanics/978_4781915159)
 - 量子力学
-    - [量子力学(猪木・河合)](https://yuuki-ichimiya.github.io/Physics/Thermal_Statistical_Mechanics/978_4061532090)
+    - [量子力学(猪木・河合)](https://yuuki-ichimiya.github.io/Physics/Quantum_Mechanics/978_4061532090)
 - 量子情報
-    - [観測に基づく量子計算](https://yuuki-ichimiya.github.io/Physics/Thermal_Statistical_Mechanics/978_4339028706)
-    - [Quantum Information Processing,Quantum Computing,and Quantum Error Correction](https://yuuki-ichimiya.github.io/Physics/Thermal_Statistical_Mechanics/978_0128219829)
+    - [観測に基づく量子計算](https://yuuki-ichimiya.github.io/Physics/Quantum_Information/978_4339028706)
+    - [Quantum Information Processing,Quantum Computing,and Quantum Error Correction](https://yuuki-ichimiya.github.io/Physics/Quantum_Information/978_0128219829)
 
 ***
 
