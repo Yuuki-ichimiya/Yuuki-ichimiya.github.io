@@ -32,7 +32,7 @@
     - [情報幾何学の基礎](https://yuuki-ichimiya.github.io/Information/Information_Geometry/978_4320114517)
     - [情報幾何学の新展開](https://yuuki-ichimiya.github.io/Information/Information_Geometry/978_4781914633)
 - 量子ウォーク
-    - [量子探索 ―量子ウォークが拓く最先端アルゴリズム-](https://yuuki-ichimiya.github.io/Information/Quantum_Walk/978_4764906303)
+    - [量子探索 -量子ウォークが拓く最先端アルゴリズム-](https://yuuki-ichimiya.github.io/Information/Quantum_Walk/978_4764906303)
 
 ***
 
