@@ -1,8 +1,8 @@
 # 勉強メモ
 
-このウェブサイトは[@info_rubegu](https://twitter.com/info_rubegu)が運営するGihHub pagesです。
-手書きのノート(PDF)を載せていく予定です。(私が分かりやすいように書いているので大分冗長気味)
-もし間違ってる箇所があれば連絡ください。
+このウェブサイトは[@info_rubegu](https://twitter.com/info_rubegu)が運営するGihHub pagesです。  
+手書きのノート(PDF)を載せていく予定です。(私が分かりやすいように書いているので大分冗長気味)  
+もし間違ってる箇所があれば連絡ください。  
 
 ***
 # 数学
@@ -31,6 +31,8 @@
 - 情報幾何
     - [情報幾何学の基礎](https://yuuki-ichimiya.github.io/Information/Information_Geometry/978_4320114517)
     - [情報幾何学の新展開](https://yuuki-ichimiya.github.io/Information/Information_Geometry/978_4781914633)
+- 量子ウォーク
+    - [量子探索 ―量子ウォークが拓く最先端アルゴリズム-](https://yuuki-ichimiya.github.io/Information/Quantum_Walk/978_4764906303)
 
 ***
 
