@@ -35,6 +35,8 @@
     - [量子探索 -量子ウォークが拓く最先端アルゴリズム-](https://yuuki-ichimiya.github.io/Information/Quantum_Walk/978_4764906303)
 
 ***
+# 論文集
+1. ...
 
 
-
+<!-- https://qiita.com/tbpgr/items/989c6badefff69377da7 -->
