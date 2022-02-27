@@ -14,6 +14,7 @@
 ***
 # 物理
 - 熱・統計力学
+    - [統計力学(長岡)](https://yuuki-ichimiya.github.io/Physics/Thermal_Statistical_Mechanics/978-4000299091)
     - [大学演習 熱学・統計力学](https://yuuki-ichimiya.github.io/Physics/Thermal_Statistical_Mechanics/978_4785380328)
     - [テンソルネットワークの基礎と応用](https://yuuki-ichimiya.github.io/Physics/Thermal_Statistical_Mechanics/978_4781915159)
 - 固体物理学
