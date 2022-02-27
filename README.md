@@ -7,8 +7,9 @@
 ***
 # 数学
 - 力学系
+    - [カオス 力学系入門](https://yuuki-ichimiya.github.io/Math/Thermal_Statistical_Mechanics/978_4621065426)
+    - [ストロガッツ 非線形ダイナミクスとカオス](https://yuuki-ichimiya.github.io/Math/Thermal_Statistical_Mechanics/978_4621085806)
 - 微分幾何
-- 測度論
 - Lebesgue積分
 
 ***
@@ -21,6 +22,9 @@
     - [固体物理の基礎](https://yuuki-ichimiya.github.io/Physics/Solid_State_Physics/978_4842701981)
 - 量子力学
     - [量子力学(猪木・河合)](https://yuuki-ichimiya.github.io/Physics/Quantum_Mechanics/978_4061532090)
+    - [量子力学の数学的構造](https://yuuki-ichimiya.github.io/Physics/Quantum_Mechanics/978_4254136777)
+- 相対性理論
+    - [相対性理論の数理](https://yuuki-ichimiya.github.io/Physics/Theory_of_Relativity/978_4535789289)
 - 量子情報
     - [観測に基づく量子計算](https://yuuki-ichimiya.github.io/Physics/Quantum_Information/978_4339028706)
     - [Quantum Information Processing,Quantum Computing,and Quantum Error Correction](https://yuuki-ichimiya.github.io/Physics/Quantum_Information/978_0128219829)
