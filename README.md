@@ -1,10 +1,12 @@
 # 勉強メモ
 
 このウェブサイトは[@info_rubegu](https://twitter.com/info_rubegu)が運営するGihHub pagesです。
-まだ公開できるサイトではありませんが、徐々に要素を追加していきます。
+手書きのノート(PDF)を載せていく予定です。(私が分かりやすいように書いているので大分冗長気味)
+もし間違ってる箇所があれば連絡ください。
 
 ***
 # 数学
+- 力学系
 - 微分幾何
 - 測度論
 - Lebesgue積分
@@ -21,28 +23,18 @@
     - [Quantum Information Processing,Quantum Computing,and Quantum Error Correction](https://yuuki-ichimiya.github.io/Physics/Quantum_Information/978_0128219829)
 
 ***
+# 情報
+- 情報理論
+    - [情報理論と符号理論](https://yuuki-ichimiya.github.io/Information/Information_Theory/978_4621063422)
+- 機械学習
+    - [統計的機械学習の数理100問](https://yuuki-ichimiya.github.io/Information/Machine_Learning/978_4320125070)
+- 情報幾何
+    - [情報幾何学の基礎](https://yuuki-ichimiya.github.io/Information/Information_Geometry/978_4320114517)
+    - [情報幾何学の新展開](https://yuuki-ichimiya.github.io/Information/Information_Geometry/978_4781914633)
+- 量子ウォーク
+    - [量子探索 ―量子ウォークが拓く最先端アルゴリズム-](https://yuuki-ichimiya.github.io/Information/Quantum_Walk/978_4764906303)
 
+***
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
 
 
