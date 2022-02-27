@@ -16,6 +16,8 @@
 - 熱・統計力学
     - [大学演習 熱学・統計力学](https://yuuki-ichimiya.github.io/Physics/Thermal_Statistical_Mechanics/978_4785380328)
     - [テンソルネットワークの基礎と応用](https://yuuki-ichimiya.github.io/Physics/Thermal_Statistical_Mechanics/978_4781915159)
+- 固体物理学
+    - [固体物理の基礎](https://yuuki-ichimiya.github.io/Physics/Solid_State_Physics/978_4842701981)
 - 量子力学
     - [量子力学(猪木・河合)](https://yuuki-ichimiya.github.io/Physics/Quantum_Mechanics/978_4061532090)
 - 量子情報
