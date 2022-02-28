@@ -28,6 +28,7 @@
 - 量子情報
     - [観測に基づく量子計算](https://yuuki-ichimiya.github.io/Physics/Quantum_Information/978_4339028706)
     - [Quantum Information Processing,Quantum Computing,and Quantum Error Correction](https://yuuki-ichimiya.github.io/Physics/Quantum_Information/978_0128219829)
+    - [量子コンピュータによる量子化学計算入門](https://yuuki-ichimiya.github.io/Physics/Quantum_Information/978_4065218273)
 
 ***
 # 情報
