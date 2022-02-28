@@ -24,14 +24,15 @@
     - [量子力学(猪木・河合)](https://yuuki-ichimiya.github.io/Physics/Quantum_Mechanics/978_4061532090)
     - [量子力学の数学的構造](https://yuuki-ichimiya.github.io/Physics/Quantum_Mechanics/978_4254136777)
 - 相対性理論
+    - [一般相対性理論](https://yuuki-ichimiya.github.io/Physics/Theory_of_Relativity/978_4785323158)
     - [相対性理論の数理](https://yuuki-ichimiya.github.io/Physics/Theory_of_Relativity/978_4535789289)
-- 量子情報
-    - [観測に基づく量子計算](https://yuuki-ichimiya.github.io/Physics/Quantum_Information/978_4339028706)
-    - [Quantum Information Processing,Quantum Computing,and Quantum Error Correction](https://yuuki-ichimiya.github.io/Physics/Quantum_Information/978_0128219829)
-    - [量子コンピュータによる量子化学計算入門](https://yuuki-ichimiya.github.io/Physics/Quantum_Information/978_4065218273)
 
 ***
 # 情報
+- 量子情報(情報寄り)
+    - [観測に基づく量子計算](https://yuuki-ichimiya.github.io/Physics/Quantum_Information/978_4339028706)
+    - [Quantum Information Processing,Quantum Computing,and Quantum Error Correction](https://yuuki-ichimiya.github.io/Physics/Quantum_Information/978_0128219829)
+    - [量子コンピュータによる量子化学計算入門](https://yuuki-ichimiya.github.io/Physics/Quantum_Information/978_4065218273)
 - 情報理論
     - [情報理論と符号理論](https://yuuki-ichimiya.github.io/Information/Information_Theory/978_4621063422)
 - 機械学習
