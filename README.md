@@ -23,6 +23,8 @@
 - 量子力学
     - [量子力学(猪木・河合)](https://yuuki-ichimiya.github.io/Physics/Quantum_Mechanics/978_4061532090)
     - [量子力学の数学的構造](https://yuuki-ichimiya.github.io/Physics/Quantum_Mechanics/978_4254136777)
+- 量子化学
+    - [新しい量子化学](https://yuuki-ichimiya.github.io/Physics/Quantum_Chemistry/978_4130621113)
 - 相対性理論
     - [一般相対性理論](https://yuuki-ichimiya.github.io/Physics/Theory_of_Relativity/978_4785323158)
     - [相対性理論の数理](https://yuuki-ichimiya.github.io/Physics/Theory_of_Relativity/978_4535789289)
